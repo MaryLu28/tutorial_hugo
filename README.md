@@ -1,1 +1,1 @@
-# tutorial_hugo
+# Hugo Tutorial
