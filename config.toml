@@ -2,3 +2,9 @@ baseURL = "/"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "ga-hugo-theme"
+[taxonomies]
+    # Defaults taxonomies
+    tag = "tags"
+    category = "categories"
+    # Custom taxonomy
+    mood = "moods"
